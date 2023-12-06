@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hedr {
+	height: 70vh;
+	background-image: url(./img/top-view-background-beautiful-white-grey-brown-cream-blue-background_140725-72219.avif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.sozchiqaradi {
+	color: rgb(133, 15, 15);
+
+}
+.parallax-window {
+	min-height: 400px;
+ 
+	background: transparent;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
